@@ -1,0 +1,2752 @@
+[
+    {
+        "model": "administracion_territorial.pais",
+        "pk": "id",
+        "fields": {
+            "id": "id",
+            "codigo": "codigo",
+            "nombre": "nombre",
+            "iso": "iso",
+            "observaciones": "observaciones"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 1,
+        "fields": {
+            "id": 1,
+            "codigo": 4,
+            "nombre": "Afganist\u00e1n",
+            "iso": "AFG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 2,
+        "fields": {
+            "id": 2,
+            "codigo": 248,
+            "nombre": "Aland, Islas",
+            "iso": "ALA",
+            "observaciones": "Es una provincia aut\u00f3noma de Finlandia."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 3,
+        "fields": {
+            "id": 3,
+            "codigo": 8,
+            "nombre": "Albania",
+            "iso": "ALB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 4,
+        "fields": {
+            "id": 4,
+            "codigo": 276,
+            "nombre": "Alemania",
+            "iso": "DEU",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (alem\u00e1n): Deutschland C\u00f3digos alfa usados por Alemania Occidental antes de la reunificaci\u00f3n alemana en 1990."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 5,
+        "fields": {
+            "id": 5,
+            "codigo": 20,
+            "nombre": "Andorra",
+            "iso": "AND",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 6,
+        "fields": {
+            "id": 6,
+            "codigo": 24,
+            "nombre": "Angola",
+            "iso": "AGO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 7,
+        "fields": {
+            "id": 7,
+            "codigo": 660,
+            "nombre": "Anguila",
+            "iso": "AIA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 8,
+        "fields": {
+            "id": 8,
+            "codigo": 10,
+            "nombre": "Ant\u00e1rtida",
+            "iso": "ATA",
+            "observaciones": "Cubre el territorio al sur del paralelo 60\u00ba sur. C\u00f3digos obtenidos del nombre en franc\u00e9s: Antarctique"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 9,
+        "fields": {
+            "id": 9,
+            "codigo": 28,
+            "nombre": "Antigua y Barbuda",
+            "iso": "ATG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 10,
+        "fields": {
+            "id": 10,
+            "codigo": 682,
+            "nombre": "Arabia Saudita",
+            "iso": "SAU",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 11,
+        "fields": {
+            "id": 11,
+            "codigo": 12,
+            "nombre": "Argelia",
+            "iso": "DZA",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (cabilio): Dzayer"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 12,
+        "fields": {
+            "id": 12,
+            "codigo": 32,
+            "nombre": "Argentina",
+            "iso": "ARG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 13,
+        "fields": {
+            "id": 13,
+            "codigo": 51,
+            "nombre": "Armenia",
+            "iso": "ARM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 14,
+        "fields": {
+            "id": 14,
+            "codigo": 533,
+            "nombre": "Aruba",
+            "iso": "ABW",
+            "observaciones": "Forma parte del Reino de los Pa\u00edses Bajos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 15,
+        "fields": {
+            "id": 15,
+            "codigo": 36,
+            "nombre": "Australia",
+            "iso": "AUS",
+            "observaciones": "Incluye las Islas Ashmore y Cartier y las Islas del Mar del Coral."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 16,
+        "fields": {
+            "id": 16,
+            "codigo": 40,
+            "nombre": "Austria",
+            "iso": "AUT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 17,
+        "fields": {
+            "id": 17,
+            "codigo": 31,
+            "nombre": "Azerbaiy\u00e1n",
+            "iso": "AZE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 18,
+        "fields": {
+            "id": 18,
+            "codigo": 44,
+            "nombre": "Bahamas (las)",
+            "iso": "BHS",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 19,
+        "fields": {
+            "id": 19,
+            "codigo": 50,
+            "nombre": "Banglad\u00e9s",
+            "iso": "BGD",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 20,
+        "fields": {
+            "id": 20,
+            "codigo": 52,
+            "nombre": "Barbados",
+            "iso": "BRB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 21,
+        "fields": {
+            "id": 21,
+            "codigo": 48,
+            "nombre": "Bar\u00e9in",
+            "iso": "BHR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 22,
+        "fields": {
+            "id": 22,
+            "codigo": 56,
+            "nombre": "B\u00e9lgica",
+            "iso": "BEL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 23,
+        "fields": {
+            "id": 23,
+            "codigo": 84,
+            "nombre": "Belice",
+            "iso": "BLZ",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 24,
+        "fields": {
+            "id": 24,
+            "codigo": 204,
+            "nombre": "Ben\u00edn",
+            "iso": "BEN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 25,
+        "fields": {
+            "id": 25,
+            "codigo": 60,
+            "nombre": "Bermudas",
+            "iso": "BMU",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 26,
+        "fields": {
+            "id": 26,
+            "codigo": 112,
+            "nombre": "Belar\u00fas",
+            "iso": "BLR",
+            "observaciones": "El nombre oficial del pa\u00eds es Belar\u00fas, aunque tradicionalmente se le sigue denominando Bielorrusia."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 27,
+        "fields": {
+            "id": 27,
+            "codigo": 68,
+            "nombre": "Bolivia (Estado Plurinacional de)",
+            "iso": "BOL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 28,
+        "fields": {
+            "id": 28,
+            "codigo": 535,
+            "nombre": "Bonaire, San Eustaquio y Saba",
+            "iso": "BES",
+            "observaciones": "Son tres municipios especiales que forman parte de los Pa\u00edses Bajos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 29,
+        "fields": {
+            "id": 29,
+            "codigo": 70,
+            "nombre": "Bosnia y Herzegovina",
+            "iso": "BIH",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 30,
+        "fields": {
+            "id": 30,
+            "codigo": 72,
+            "nombre": "Botsuana",
+            "iso": "BWA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 31,
+        "fields": {
+            "id": 31,
+            "codigo": 76,
+            "nombre": "Brasil",
+            "iso": "BRA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 32,
+        "fields": {
+            "id": 32,
+            "codigo": 96,
+            "nombre": "Brun\u00e9i Darussalam",
+            "iso": "BRN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 33,
+        "fields": {
+            "id": 33,
+            "codigo": 100,
+            "nombre": "Bulgaria",
+            "iso": "BGR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 34,
+        "fields": {
+            "id": 34,
+            "codigo": 854,
+            "nombre": "Burkina Faso",
+            "iso": "BFA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 35,
+        "fields": {
+            "id": 35,
+            "codigo": 108,
+            "nombre": "Burundi",
+            "iso": "BDI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 36,
+        "fields": {
+            "id": 36,
+            "codigo": 64,
+            "nombre": "Bhut\u00e1n",
+            "iso": "BTN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 37,
+        "fields": {
+            "id": 37,
+            "codigo": 132,
+            "nombre": "Cabo Verde",
+            "iso": "CPV",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 38,
+        "fields": {
+            "id": 38,
+            "codigo": 116,
+            "nombre": "Camboya",
+            "iso": "KHM",
+            "observaciones": "C\u00f3digos obtenidos del anterior nombre: Khmer Republic (Rep\u00fablica Jemer)"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 39,
+        "fields": {
+            "id": 39,
+            "codigo": 120,
+            "nombre": "Camer\u00fan",
+            "iso": "CMR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 40,
+        "fields": {
+            "id": 40,
+            "codigo": 124,
+            "nombre": "Canad\u00e1",
+            "iso": "CAN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 41,
+        "fields": {
+            "id": 41,
+            "codigo": 634,
+            "nombre": "Qatar",
+            "iso": "QAT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 42,
+        "fields": {
+            "id": 42,
+            "codigo": 148,
+            "nombre": "Chad",
+            "iso": "TCD",
+            "observaciones": "C\u00f3digos obtenidos del nombre en franc\u00e9s: Tchad"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 43,
+        "fields": {
+            "id": 43,
+            "codigo": 152,
+            "nombre": "Chile",
+            "iso": "CHL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 44,
+        "fields": {
+            "id": 44,
+            "codigo": 156,
+            "nombre": "China",
+            "iso": "CHN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 45,
+        "fields": {
+            "id": 45,
+            "codigo": 196,
+            "nombre": "Chipre",
+            "iso": "CYP",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 46,
+        "fields": {
+            "id": 46,
+            "codigo": 170,
+            "nombre": "Colombia",
+            "iso": "COL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 47,
+        "fields": {
+            "id": 47,
+            "codigo": 174,
+            "nombre": "Comoras (las)",
+            "iso": "COM",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (comorense): Komori"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 48,
+        "fields": {
+            "id": 48,
+            "codigo": 408,
+            "nombre": "Corea (la Rep\u00fablica Popular Democr\u00e1tica de)",
+            "iso": "PRK",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 49,
+        "fields": {
+            "id": 49,
+            "codigo": 410,
+            "nombre": "Corea (la Rep\u00fablica de)",
+            "iso": "KOR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 50,
+        "fields": {
+            "id": 50,
+            "codigo": 384,
+            "nombre": "C\u00f4te d'Ivoire",
+            "iso": "CIV",
+            "observaciones": "Nombre oficial en la ISO en franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 51,
+        "fields": {
+            "id": 51,
+            "codigo": 188,
+            "nombre": "Costa Rica",
+            "iso": "CRI",
+            "observaciones": "Nombre oficial en la ISO en espa\u00f1ol."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 52,
+        "fields": {
+            "id": 52,
+            "codigo": 191,
+            "nombre": "Croacia",
+            "iso": "HRV",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (croata): Hrvatska"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 53,
+        "fields": {
+            "id": 53,
+            "codigo": 192,
+            "nombre": "Cuba",
+            "iso": "CUB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 54,
+        "fields": {
+            "id": 54,
+            "codigo": 531,
+            "nombre": "Cura\u00e7ao",
+            "iso": "CUW",
+            "observaciones": "Forma parte del Reino de los Pa\u00edses Bajos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 55,
+        "fields": {
+            "id": 55,
+            "codigo": 208,
+            "nombre": "Dinamarca",
+            "iso": "DNK",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 56,
+        "fields": {
+            "id": 56,
+            "codigo": 212,
+            "nombre": "Dominica",
+            "iso": "DMA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 57,
+        "fields": {
+            "id": 57,
+            "codigo": 218,
+            "nombre": "Ecuador",
+            "iso": "ECU",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 58,
+        "fields": {
+            "id": 58,
+            "codigo": 818,
+            "nombre": "Egipto",
+            "iso": "EGY",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 59,
+        "fields": {
+            "id": 59,
+            "codigo": 222,
+            "nombre": "El Salvador",
+            "iso": "SLV",
+            "observaciones": "Nombre oficial en la ISO en espa\u00f1ol."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 60,
+        "fields": {
+            "id": 60,
+            "codigo": 784,
+            "nombre": "Emiratos \u00c1rabes Unidos (los)",
+            "iso": "ARE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 61,
+        "fields": {
+            "id": 61,
+            "codigo": 232,
+            "nombre": "Eritrea",
+            "iso": "ERI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 62,
+        "fields": {
+            "id": 62,
+            "codigo": 703,
+            "nombre": "Eslovaquia",
+            "iso": "SVK",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 63,
+        "fields": {
+            "id": 63,
+            "codigo": 705,
+            "nombre": "Eslovenia",
+            "iso": "SVN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 64,
+        "fields": {
+            "id": 64,
+            "codigo": 724,
+            "nombre": "Espa\u00f1a",
+            "iso": "ESP",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (espa\u00f1ol): Espa\u00f1a"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 65,
+        "fields": {
+            "id": 65,
+            "codigo": 840,
+            "nombre": "Estados Unidos de Am\u00e9rica (los)",
+            "iso": "USA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 66,
+        "fields": {
+            "id": 66,
+            "codigo": 233,
+            "nombre": "Estonia",
+            "iso": "EST",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (estonio): Eesti"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 67,
+        "fields": {
+            "id": 67,
+            "codigo": 231,
+            "nombre": "Etiop\u00eda",
+            "iso": "ETH",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 68,
+        "fields": {
+            "id": 68,
+            "codigo": 608,
+            "nombre": "Filipinas (las)",
+            "iso": "PHL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 69,
+        "fields": {
+            "id": 69,
+            "codigo": 246,
+            "nombre": "Finlandia",
+            "iso": "FIN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 70,
+        "fields": {
+            "id": 70,
+            "codigo": 242,
+            "nombre": "Fiji",
+            "iso": "FJI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 71,
+        "fields": {
+            "id": 71,
+            "codigo": 250,
+            "nombre": "Francia",
+            "iso": "FRA",
+            "observaciones": "Incluye la Isla Clipperton."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 72,
+        "fields": {
+            "id": 72,
+            "codigo": 266,
+            "nombre": "Gab\u00f3n",
+            "iso": "GAB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 73,
+        "fields": {
+            "id": 73,
+            "codigo": 270,
+            "nombre": "Gambia (la)",
+            "iso": "GMB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 74,
+        "fields": {
+            "id": 74,
+            "codigo": 268,
+            "nombre": "Georgia",
+            "iso": "GEO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 75,
+        "fields": {
+            "id": 75,
+            "codigo": 288,
+            "nombre": "Ghana",
+            "iso": "GHA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 76,
+        "fields": {
+            "id": 76,
+            "codigo": 292,
+            "nombre": "Gibraltar",
+            "iso": "GIB",
+            "observaciones": "Pertenece al Reino Unido."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 77,
+        "fields": {
+            "id": 77,
+            "codigo": 308,
+            "nombre": "Granada",
+            "iso": "GRD",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 78,
+        "fields": {
+            "id": 78,
+            "codigo": 300,
+            "nombre": "Grecia",
+            "iso": "GRC",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 79,
+        "fields": {
+            "id": 79,
+            "codigo": 304,
+            "nombre": "Groenlandia",
+            "iso": "GRL",
+            "observaciones": "Pertenece al Reino de Dinamarca."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 80,
+        "fields": {
+            "id": 80,
+            "codigo": 312,
+            "nombre": "Guadeloupe",
+            "iso": "GLP",
+            "observaciones": "Departamento de ultramar franc\u00e9s. Nombre oficial en la ISO en franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 81,
+        "fields": {
+            "id": 81,
+            "codigo": 316,
+            "nombre": "Guam",
+            "iso": "GUM",
+            "observaciones": "Territorio no incorporado de los Estados Unidos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 82,
+        "fields": {
+            "id": 82,
+            "codigo": 320,
+            "nombre": "Guatemala",
+            "iso": "GTM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 83,
+        "fields": {
+            "id": 83,
+            "codigo": 254,
+            "nombre": "Guayana Francesa",
+            "iso": "GUF",
+            "observaciones": "Departamento de ultramar franc\u00e9s. C\u00f3digos obtenidos del nombre en franc\u00e9s: Guyane fran\u00e7aise"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 84,
+        "fields": {
+            "id": 84,
+            "codigo": 831,
+            "nombre": "Guernsey",
+            "iso": "GGY",
+            "observaciones": "Una dependencia de la Corona brit\u00e1nica."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 85,
+        "fields": {
+            "id": 85,
+            "codigo": 324,
+            "nombre": "Guinea",
+            "iso": "GIN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 86,
+        "fields": {
+            "id": 86,
+            "codigo": 624,
+            "nombre": "Guinea Bissau",
+            "iso": "GNB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 87,
+        "fields": {
+            "id": 87,
+            "codigo": 226,
+            "nombre": "Guinea Ecuatorial",
+            "iso": "GNQ",
+            "observaciones": "C\u00f3digos obtenidos del nombre en franc\u00e9s: Guin\u00e9e \u00e9quatoriale"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 88,
+        "fields": {
+            "id": 88,
+            "codigo": 328,
+            "nombre": "Guyana",
+            "iso": "GUY",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 89,
+        "fields": {
+            "id": 89,
+            "codigo": 332,
+            "nombre": "Hait\u00ed",
+            "iso": "HTI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 90,
+        "fields": {
+            "id": 90,
+            "codigo": 340,
+            "nombre": "Honduras",
+            "iso": "HND",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 91,
+        "fields": {
+            "id": 91,
+            "codigo": 344,
+            "nombre": "Hong Kong",
+            "iso": "HKG",
+            "observaciones": "Regi\u00f3n administrativa especial de China."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 92,
+        "fields": {
+            "id": 92,
+            "codigo": 348,
+            "nombre": "Hungr\u00eda",
+            "iso": "HUN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 93,
+        "fields": {
+            "id": 93,
+            "codigo": 356,
+            "nombre": "India",
+            "iso": "IND",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 94,
+        "fields": {
+            "id": 94,
+            "codigo": 360,
+            "nombre": "Indonesia",
+            "iso": "IDN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 95,
+        "fields": {
+            "id": 95,
+            "codigo": 368,
+            "nombre": "Iraq",
+            "iso": "IRQ",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 96,
+        "fields": {
+            "id": 96,
+            "codigo": 364,
+            "nombre": "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica de)",
+            "iso": "IRN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 97,
+        "fields": {
+            "id": 97,
+            "codigo": 372,
+            "nombre": "Irlanda",
+            "iso": "IRL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 98,
+        "fields": {
+            "id": 98,
+            "codigo": 74,
+            "nombre": "Bouvet, Isla",
+            "iso": "BVT",
+            "observaciones": "Pertenece a Noruega."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 99,
+        "fields": {
+            "id": 99,
+            "codigo": 833,
+            "nombre": "Isla de Man",
+            "iso": "IMN",
+            "observaciones": "Una dependencia de la Corona brit\u00e1nica."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 100,
+        "fields": {
+            "id": 100,
+            "codigo": 162,
+            "nombre": "Navidad, Isla de",
+            "iso": "CXR",
+            "observaciones": "Pertenece a Australia."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 101,
+        "fields": {
+            "id": 101,
+            "codigo": 352,
+            "nombre": "Islandia",
+            "iso": "ISL",
+            "observaciones": "C\u00f3digos obtenidos del idioma nativo (island\u00e9s): \u00cdsland"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 102,
+        "fields": {
+            "id": 102,
+            "codigo": 136,
+            "nombre": "Caim\u00e1n, (las) Islas",
+            "iso": "CYM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 103,
+        "fields": {
+            "id": 103,
+            "codigo": 166,
+            "nombre": "Cocos / Keeling, (las) Islas",
+            "iso": "CCK",
+            "observaciones": "Pertenecen a Australia."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 104,
+        "fields": {
+            "id": 104,
+            "codigo": 184,
+            "nombre": "Cook, (las) Islas",
+            "iso": "COK",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 105,
+        "fields": {
+            "id": 105,
+            "codigo": 234,
+            "nombre": "Feroe, (las) Islas",
+            "iso": "FRO",
+            "observaciones": "Pertenecen al Reino de Dinamarca."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 106,
+        "fields": {
+            "id": 106,
+            "codigo": 239,
+            "nombre": "Georgia del Sur (la) y las Islas Sandwich del Sur",
+            "iso": "SGS",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 107,
+        "fields": {
+            "id": 107,
+            "codigo": 334,
+            "nombre": "Heard (Isla) e Islas McDonald",
+            "iso": "HMD",
+            "observaciones": "Pertenecen a Australia."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 108,
+        "fields": {
+            "id": 108,
+            "codigo": 238,
+            "nombre": "Malvinas [Falkland], (las) Islas",
+            "iso": "FLK",
+            "observaciones": "C\u00f3digos obtenidos del nombre en (ingl\u00e9s): Falkland"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 109,
+        "fields": {
+            "id": 109,
+            "codigo": 580,
+            "nombre": "Marianas del Norte, (las) Islas",
+            "iso": "MNP",
+            "observaciones": "Territorio no incorporado de los Estados Unidos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 110,
+        "fields": {
+            "id": 110,
+            "codigo": 584,
+            "nombre": "Marshall, (las) Islas",
+            "iso": "MHL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 111,
+        "fields": {
+            "id": 111,
+            "codigo": 612,
+            "nombre": "Pitcairn",
+            "iso": "PCN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 112,
+        "fields": {
+            "id": 112,
+            "codigo": 90,
+            "nombre": "Salom\u00f3n, Islas",
+            "iso": "SLB",
+            "observaciones": "C\u00f3digos obtenidos de su anterior nombre: British Solomon Islands"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 113,
+        "fields": {
+            "id": 113,
+            "codigo": 796,
+            "nombre": "Turcas y Caicos, (las) Islas",
+            "iso": "TCA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 114,
+        "fields": {
+            "id": 114,
+            "codigo": 581,
+            "nombre": "Islas Ultramarinas Menores de los Estados Unidos (las)",
+            "iso": "UMI",
+            "observaciones": "Comprende nueve \u00e1reas insulares menores de los Estados Unidos: Arrecife Kingman, Atol\u00f3n Johnston, Atol\u00f3n Palmyra, Isla Baker, Isla Howland, Isla Jarvis, Islas Midway, Isla de Navaza e Isla Wake."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 115,
+        "fields": {
+            "id": 115,
+            "codigo": 92,
+            "nombre": "V\u00edrgenes brit\u00e1nicas, Islas",
+            "iso": "VGB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 116,
+        "fields": {
+            "id": 116,
+            "codigo": 850,
+            "nombre": "V\u00edrgenes de los Estados Unidos, Islas",
+            "iso": "VIR",
+            "observaciones": "Territorio no incorporado de los Estados Unidos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 117,
+        "fields": {
+            "id": 117,
+            "codigo": 376,
+            "nombre": "Israel",
+            "iso": "ISR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 118,
+        "fields": {
+            "id": 118,
+            "codigo": 380,
+            "nombre": "Italia",
+            "iso": "ITA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 119,
+        "fields": {
+            "id": 119,
+            "codigo": 388,
+            "nombre": "Jamaica",
+            "iso": "JAM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 120,
+        "fields": {
+            "id": 120,
+            "codigo": 392,
+            "nombre": "Jap\u00f3n",
+            "iso": "JPN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 121,
+        "fields": {
+            "id": 121,
+            "codigo": 832,
+            "nombre": "Jersey",
+            "iso": "JEY",
+            "observaciones": "Una dependencia de la Corona brit\u00e1nica."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 122,
+        "fields": {
+            "id": 122,
+            "codigo": 400,
+            "nombre": "Jordania",
+            "iso": "JOR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 123,
+        "fields": {
+            "id": 123,
+            "codigo": 398,
+            "nombre": "Kazajist\u00e1n",
+            "iso": "KAZ",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 124,
+        "fields": {
+            "id": 124,
+            "codigo": 404,
+            "nombre": "Kenia",
+            "iso": "KEN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 125,
+        "fields": {
+            "id": 125,
+            "codigo": 417,
+            "nombre": "Kirguist\u00e1n",
+            "iso": "KGZ",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 126,
+        "fields": {
+            "id": 126,
+            "codigo": 296,
+            "nombre": "Kiribati",
+            "iso": "KIR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 127,
+        "fields": {
+            "id": 127,
+            "codigo": 414,
+            "nombre": "Kuwait",
+            "iso": "KWT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 128,
+        "fields": {
+            "id": 128,
+            "codigo": 418,
+            "nombre": "Lao, (la) Rep\u00fablica Democr\u00e1tica Popular",
+            "iso": "LAO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 129,
+        "fields": {
+            "id": 129,
+            "codigo": 426,
+            "nombre": "Lesotho",
+            "iso": "LSO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 130,
+        "fields": {
+            "id": 130,
+            "codigo": 428,
+            "nombre": "Letonia",
+            "iso": "LVA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 131,
+        "fields": {
+            "id": 131,
+            "codigo": 422,
+            "nombre": "L\u00edbano",
+            "iso": "LBN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 132,
+        "fields": {
+            "id": 132,
+            "codigo": 430,
+            "nombre": "Liberia",
+            "iso": "LBR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 133,
+        "fields": {
+            "id": 133,
+            "codigo": 434,
+            "nombre": "Libia",
+            "iso": "LBY",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 134,
+        "fields": {
+            "id": 134,
+            "codigo": 438,
+            "nombre": "Liechtenstein",
+            "iso": "LIE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 135,
+        "fields": {
+            "id": 135,
+            "codigo": 440,
+            "nombre": "Lituania",
+            "iso": "LTU",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 136,
+        "fields": {
+            "id": 136,
+            "codigo": 442,
+            "nombre": "Luxemburgo",
+            "iso": "LUX",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 137,
+        "fields": {
+            "id": 137,
+            "codigo": 446,
+            "nombre": "Macao",
+            "iso": "MAC",
+            "observaciones": "Regi\u00f3n administrativa especial de China."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 138,
+        "fields": {
+            "id": 138,
+            "codigo": 807,
+            "nombre": "Macedonia del Norte",
+            "iso": "MKD",
+            "observaciones": "Ver: Disputa sobre el nombre de Macedonia C\u00f3digos obtenidos del idioma nativo (macedonio): Makedonija"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 139,
+        "fields": {
+            "id": 139,
+            "codigo": 450,
+            "nombre": "Madagascar",
+            "iso": "MDG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 140,
+        "fields": {
+            "id": 140,
+            "codigo": 458,
+            "nombre": "Malasia",
+            "iso": "MYS",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 141,
+        "fields": {
+            "id": 141,
+            "codigo": 454,
+            "nombre": "Malawi",
+            "iso": "MWI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 142,
+        "fields": {
+            "id": 142,
+            "codigo": 462,
+            "nombre": "Maldivas",
+            "iso": "MDV",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 143,
+        "fields": {
+            "id": 143,
+            "codigo": 466,
+            "nombre": "Mal\u00ed",
+            "iso": "MLI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 144,
+        "fields": {
+            "id": 144,
+            "codigo": 470,
+            "nombre": "Malta",
+            "iso": "MLT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 145,
+        "fields": {
+            "id": 145,
+            "codigo": 504,
+            "nombre": "Marruecos",
+            "iso": "MAR",
+            "observaciones": "C\u00f3digos obtenidos del nombre en franc\u00e9s: Maroc"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 146,
+        "fields": {
+            "id": 146,
+            "codigo": 474,
+            "nombre": "Martinique",
+            "iso": "MTQ",
+            "observaciones": "Departamento de ultramar franc\u00e9s. Nombre oficial en la ISO en franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 147,
+        "fields": {
+            "id": 147,
+            "codigo": 480,
+            "nombre": "Mauricio",
+            "iso": "MUS",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 148,
+        "fields": {
+            "id": 148,
+            "codigo": 478,
+            "nombre": "Mauritania",
+            "iso": "MRT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 149,
+        "fields": {
+            "id": 149,
+            "codigo": 175,
+            "nombre": "Mayotte",
+            "iso": "MYT",
+            "observaciones": "Departamento de ultramar franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 150,
+        "fields": {
+            "id": 150,
+            "codigo": 484,
+            "nombre": "M\u00e9xico",
+            "iso": "MEX",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 151,
+        "fields": {
+            "id": 151,
+            "codigo": 583,
+            "nombre": "Micronesia (Estados Federados de)",
+            "iso": "FSM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 152,
+        "fields": {
+            "id": 152,
+            "codigo": 498,
+            "nombre": "Moldova (la Rep\u00fablica de)",
+            "iso": "MDA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 153,
+        "fields": {
+            "id": 153,
+            "codigo": 492,
+            "nombre": "M\u00f3naco",
+            "iso": "MCO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 154,
+        "fields": {
+            "id": 154,
+            "codigo": 496,
+            "nombre": "Mongolia",
+            "iso": "MNG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 155,
+        "fields": {
+            "id": 155,
+            "codigo": 499,
+            "nombre": "Montenegro",
+            "iso": "MNE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 156,
+        "fields": {
+            "id": 156,
+            "codigo": 500,
+            "nombre": "Montserrat",
+            "iso": "MSR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 157,
+        "fields": {
+            "id": 157,
+            "codigo": 508,
+            "nombre": "Mozambique",
+            "iso": "MOZ",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 158,
+        "fields": {
+            "id": 158,
+            "codigo": 104,
+            "nombre": "Myanmar",
+            "iso": "MMR",
+            "observaciones": "Anteriormente conocida como Birmania."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 159,
+        "fields": {
+            "id": 159,
+            "codigo": 516,
+            "nombre": "Namibia",
+            "iso": "NAM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 160,
+        "fields": {
+            "id": 160,
+            "codigo": 520,
+            "nombre": "Nauru",
+            "iso": "NRU",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 161,
+        "fields": {
+            "id": 161,
+            "codigo": 524,
+            "nombre": "Nepal",
+            "iso": "NPL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 162,
+        "fields": {
+            "id": 162,
+            "codigo": 558,
+            "nombre": "Nicaragua",
+            "iso": "NIC",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 163,
+        "fields": {
+            "id": 163,
+            "codigo": 562,
+            "nombre": "N\u00edger (el)",
+            "iso": "NER",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 164,
+        "fields": {
+            "id": 164,
+            "codigo": 566,
+            "nombre": "Nigeria",
+            "iso": "NGA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 165,
+        "fields": {
+            "id": 165,
+            "codigo": 570,
+            "nombre": "Niue",
+            "iso": "NIU",
+            "observaciones": "Asociado a Nueva Zelanda."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 166,
+        "fields": {
+            "id": 166,
+            "codigo": 574,
+            "nombre": "Norfolk, Isla",
+            "iso": "NFK",
+            "observaciones": "Pertenece a Australia."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 167,
+        "fields": {
+            "id": 167,
+            "codigo": 578,
+            "nombre": "Noruega",
+            "iso": "NOR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 168,
+        "fields": {
+            "id": 168,
+            "codigo": 540,
+            "nombre": "Nueva Caledonia",
+            "iso": "NCL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 169,
+        "fields": {
+            "id": 169,
+            "codigo": 554,
+            "nombre": "Nueva Zelandia",
+            "iso": "NZL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 170,
+        "fields": {
+            "id": 170,
+            "codigo": 512,
+            "nombre": "Om\u00e1n",
+            "iso": "OMN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 171,
+        "fields": {
+            "id": 171,
+            "codigo": 528,
+            "nombre": "Pa\u00edses Bajos (los)",
+            "iso": "NLD",
+            "observaciones": "Forma parte del Reino de los Pa\u00edses Bajos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 172,
+        "fields": {
+            "id": 172,
+            "codigo": 586,
+            "nombre": "Pakist\u00e1n",
+            "iso": "PAK",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 173,
+        "fields": {
+            "id": 173,
+            "codigo": 585,
+            "nombre": "Palau",
+            "iso": "PLW",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 174,
+        "fields": {
+            "id": 174,
+            "codigo": 275,
+            "nombre": "Palestina, Estado de",
+            "iso": "PSE",
+            "observaciones": "Comprende los territorios de Cisjordania y Franja de Gaza."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 175,
+        "fields": {
+            "id": 175,
+            "codigo": 591,
+            "nombre": "Panam\u00e1",
+            "iso": "PAN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 176,
+        "fields": {
+            "id": 176,
+            "codigo": 598,
+            "nombre": "Papua Nueva Guinea",
+            "iso": "PNG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 177,
+        "fields": {
+            "id": 177,
+            "codigo": 600,
+            "nombre": "Paraguay",
+            "iso": "PRY",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 178,
+        "fields": {
+            "id": 178,
+            "codigo": 604,
+            "nombre": "Per\u00fa",
+            "iso": "PER",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 179,
+        "fields": {
+            "id": 179,
+            "codigo": 258,
+            "nombre": "Polinesia Francesa",
+            "iso": "PYF",
+            "observaciones": "C\u00f3digos obtenidos del nombre en franc\u00e9s: Polyn\u00e9sie fran\u00e7aise"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 180,
+        "fields": {
+            "id": 180,
+            "codigo": 616,
+            "nombre": "Polonia",
+            "iso": "POL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 181,
+        "fields": {
+            "id": 181,
+            "codigo": 620,
+            "nombre": "Portugal",
+            "iso": "PRT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 182,
+        "fields": {
+            "id": 182,
+            "codigo": 630,
+            "nombre": "Puerto Rico",
+            "iso": "PRI",
+            "observaciones": "Territorio no incorporado de los Estados Unidos. Nombre oficial en la ISO en espa\u00f1ol."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 183,
+        "fields": {
+            "id": 183,
+            "codigo": 826,
+            "nombre": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte (el)",
+            "iso": "GBR",
+            "observaciones": "Debido a que para obtener los c\u00f3digos ISO no se utilizan las palabras comunes de Reino y Unido, los c\u00f3digos se han obtenido a partir del resto del nombre oficial."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 184,
+        "fields": {
+            "id": 184,
+            "codigo": 732,
+            "nombre": "Sahara Occidental",
+            "iso": "ESH",
+            "observaciones": "Nombre provisional. Anterior nombre en la ISO: Sahara espa\u00f1ol C\u00f3digos obtenidos del anterior nombre en espa\u00f1ol"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 185,
+        "fields": {
+            "id": 185,
+            "codigo": 140,
+            "nombre": "Rep\u00fablica Centroafricana (la)",
+            "iso": "CAF",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 186,
+        "fields": {
+            "id": 186,
+            "codigo": 203,
+            "nombre": "Chequia",
+            "iso": "CZE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 187,
+        "fields": {
+            "id": 187,
+            "codigo": 178,
+            "nombre": "Congo (el)",
+            "iso": "COG",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 188,
+        "fields": {
+            "id": 188,
+            "codigo": 180,
+            "nombre": "Congo (la Rep\u00fablica Democr\u00e1tica del)",
+            "iso": "COD",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 189,
+        "fields": {
+            "id": 189,
+            "codigo": 214,
+            "nombre": "Dominicana, (la) Rep\u00fablica",
+            "iso": "DOM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 190,
+        "fields": {
+            "id": 190,
+            "codigo": 638,
+            "nombre": "Reuni\u00f3n",
+            "iso": "REU",
+            "observaciones": "Departamento de ultramar franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 191,
+        "fields": {
+            "id": 191,
+            "codigo": 646,
+            "nombre": "Ruanda",
+            "iso": "RWA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 192,
+        "fields": {
+            "id": 192,
+            "codigo": 642,
+            "nombre": "Rumania",
+            "iso": "ROU",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 193,
+        "fields": {
+            "id": 193,
+            "codigo": 643,
+            "nombre": "Rusia, (la) Federaci\u00f3n de",
+            "iso": "RUS",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 194,
+        "fields": {
+            "id": 194,
+            "codigo": 882,
+            "nombre": "Samoa",
+            "iso": "WSM",
+            "observaciones": "C\u00f3digos obtenidos del anterior nombre: Western Samoa (Samoa Occidental)"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 195,
+        "fields": {
+            "id": 195,
+            "codigo": 16,
+            "nombre": "Samoa Americana",
+            "iso": "ASM",
+            "observaciones": "Territorio no incorporado de los Estados Unidos."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 196,
+        "fields": {
+            "id": 196,
+            "codigo": 652,
+            "nombre": "Saint Barth\u00e9lemy",
+            "iso": "BLM",
+            "observaciones": "Colectividad de ultramar francesa. Nombre oficial en la ISO en franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 197,
+        "fields": {
+            "id": 197,
+            "codigo": 659,
+            "nombre": "San Crist\u00f3bal y Nieves",
+            "iso": "KNA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 198,
+        "fields": {
+            "id": 198,
+            "codigo": 674,
+            "nombre": "San Marino",
+            "iso": "SMR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 199,
+        "fields": {
+            "id": 199,
+            "codigo": 663,
+            "nombre": "Saint Martin (parte francesa)",
+            "iso": "MAF",
+            "observaciones": "Colectividad de ultramar francesa. Nombre oficial en la ISO en franc\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 200,
+        "fields": {
+            "id": 200,
+            "codigo": 666,
+            "nombre": "San Pedro y Miquel\u00f3n",
+            "iso": "SPM",
+            "observaciones": "Colectividad de ultramar francesa."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 201,
+        "fields": {
+            "id": 201,
+            "codigo": 670,
+            "nombre": "San Vicente y las Granadinas",
+            "iso": "VCT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 202,
+        "fields": {
+            "id": 202,
+            "codigo": 654,
+            "nombre": "Santa Helena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a",
+            "iso": "SHN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 203,
+        "fields": {
+            "id": 203,
+            "codigo": 662,
+            "nombre": "Santa Luc\u00eda",
+            "iso": "LCA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 204,
+        "fields": {
+            "id": 204,
+            "codigo": 678,
+            "nombre": "Santo Tom\u00e9 y Pr\u00edncipe",
+            "iso": "STP",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 205,
+        "fields": {
+            "id": 205,
+            "codigo": 686,
+            "nombre": "Senegal",
+            "iso": "SEN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 206,
+        "fields": {
+            "id": 206,
+            "codigo": 688,
+            "nombre": "Serbia",
+            "iso": "SRB",
+            "observaciones": "C\u00f3digos obtenidos de su nombre oficial: Rep\u00fablica de Serbia, en ingl\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 207,
+        "fields": {
+            "id": 207,
+            "codigo": 690,
+            "nombre": "Seychelles",
+            "iso": "SYC",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 208,
+        "fields": {
+            "id": 208,
+            "codigo": 694,
+            "nombre": "Sierra leona",
+            "iso": "SLE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 209,
+        "fields": {
+            "id": 209,
+            "codigo": 702,
+            "nombre": "Singapur",
+            "iso": "SGP",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 210,
+        "fields": {
+            "id": 210,
+            "codigo": 534,
+            "nombre": "Sint Maarten (parte neerlandesa)",
+            "iso": "SXM",
+            "observaciones": "Forma parte del Reino de los Pa\u00edses Bajos. Nombre oficial en neerland\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 211,
+        "fields": {
+            "id": 211,
+            "codigo": 760,
+            "nombre": "Rep\u00fablica \u00c1rabe Siria",
+            "iso": "SYR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 212,
+        "fields": {
+            "id": 212,
+            "codigo": 706,
+            "nombre": "Somalia",
+            "iso": "SOM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 213,
+        "fields": {
+            "id": 213,
+            "codigo": 144,
+            "nombre": "Sri Lanka",
+            "iso": "LKA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 214,
+        "fields": {
+            "id": 214,
+            "codigo": 748,
+            "nombre": "Suazilandia",
+            "iso": "SWZ",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 215,
+        "fields": {
+            "id": 215,
+            "codigo": 710,
+            "nombre": "Sud\u00e1frica",
+            "iso": "ZAF",
+            "observaciones": "C\u00f3digos obtenidos del nombre en neerland\u00e9s: Zuid-Afrika"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 216,
+        "fields": {
+            "id": 216,
+            "codigo": 729,
+            "nombre": "Sud\u00e1n (el)",
+            "iso": "SDN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 217,
+        "fields": {
+            "id": 217,
+            "codigo": 728,
+            "nombre": "Sud\u00e1n del Sur",
+            "iso": "SSD",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 218,
+        "fields": {
+            "id": 218,
+            "codigo": 752,
+            "nombre": "Suecia",
+            "iso": "SWE",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 219,
+        "fields": {
+            "id": 219,
+            "codigo": 756,
+            "nombre": "Suiza",
+            "iso": "CHE",
+            "observaciones": "C\u00f3digos obtenidos del nombre en lat\u00edn: Confoederatio Helvetica"
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 220,
+        "fields": {
+            "id": 220,
+            "codigo": 740,
+            "nombre": "Suriname",
+            "iso": "SUR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 221,
+        "fields": {
+            "id": 221,
+            "codigo": 744,
+            "nombre": "Svalbard y Jan Mayen",
+            "iso": "SJM",
+            "observaciones": "Comprende dos territorios \u00e1rticos de Noruega: Svalbard y Jan Mayen."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 222,
+        "fields": {
+            "id": 222,
+            "codigo": 764,
+            "nombre": "Tailandia",
+            "iso": "THA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 223,
+        "fields": {
+            "id": 223,
+            "codigo": 158,
+            "nombre": "Taiw\u00e1n (Provincia de China)",
+            "iso": "TWN",
+            "observaciones": "Cubre la jurisdicci\u00f3n actual de la Rep\u00fablica de China (Taiw\u00e1n), excepto Kinmen e Islas Matsu. La ONU considera a Taiw\u00e1n como una provincia de China, debido a su estatus pol\u00edtico."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 224,
+        "fields": {
+            "id": 224,
+            "codigo": 834,
+            "nombre": "Tanzania, Rep\u00fablica Unida de",
+            "iso": "TZA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 225,
+        "fields": {
+            "id": 225,
+            "codigo": 762,
+            "nombre": "Tayikist\u00e1n",
+            "iso": "TJK",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 226,
+        "fields": {
+            "id": 226,
+            "codigo": 86,
+            "nombre": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico (el)",
+            "iso": "IOT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 227,
+        "fields": {
+            "id": 227,
+            "codigo": 260,
+            "nombre": "Tierras Australes Francesas (las)",
+            "iso": "ATF",
+            "observaciones": "Comprende las tierras australes y ant\u00e1rticas francesas excepto la parte incluida en la Ant\u00e1rtida conocida como Tierra Adelia. C\u00f3digos obtenidos del nombre en franc\u00e9s: Terres australes fran\u00e7aises."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 228,
+        "fields": {
+            "id": 228,
+            "codigo": 626,
+            "nombre": "Timor-Leste",
+            "iso": "TLS",
+            "observaciones": "Nombre oficial en la ISO en portugu\u00e9s."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 229,
+        "fields": {
+            "id": 229,
+            "codigo": 768,
+            "nombre": "Togo",
+            "iso": "TGO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 230,
+        "fields": {
+            "id": 230,
+            "codigo": 772,
+            "nombre": "Tokelau",
+            "iso": "TKL",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 231,
+        "fields": {
+            "id": 231,
+            "codigo": 776,
+            "nombre": "Tonga",
+            "iso": "TON",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 232,
+        "fields": {
+            "id": 232,
+            "codigo": 780,
+            "nombre": "Trinidad y Tobago",
+            "iso": "TTO",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 233,
+        "fields": {
+            "id": 233,
+            "codigo": 788,
+            "nombre": "T\u00fanez",
+            "iso": "TUN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 234,
+        "fields": {
+            "id": 234,
+            "codigo": 795,
+            "nombre": "Turkmenist\u00e1n",
+            "iso": "TKM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 235,
+        "fields": {
+            "id": 235,
+            "codigo": 792,
+            "nombre": "Turqu\u00eda",
+            "iso": "TUR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 236,
+        "fields": {
+            "id": 236,
+            "codigo": 798,
+            "nombre": "Tuvalu",
+            "iso": "TUV",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 237,
+        "fields": {
+            "id": 237,
+            "codigo": 804,
+            "nombre": "Ucrania",
+            "iso": "UKR",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 238,
+        "fields": {
+            "id": 238,
+            "codigo": 800,
+            "nombre": "Uganda",
+            "iso": "UGA",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 239,
+        "fields": {
+            "id": 239,
+            "codigo": 858,
+            "nombre": "Uruguay",
+            "iso": "URY",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 240,
+        "fields": {
+            "id": 240,
+            "codigo": 860,
+            "nombre": "Uzbekist\u00e1n",
+            "iso": "UZB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 241,
+        "fields": {
+            "id": 241,
+            "codigo": 548,
+            "nombre": "Vanuatu",
+            "iso": "VUT",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 242,
+        "fields": {
+            "id": 242,
+            "codigo": 336,
+            "nombre": "Santa Sede (la)",
+            "iso": "VAT",
+            "observaciones": "La Santa Sede es la representante diplom\u00e1tica del Estado de la Ciudad del Vaticano ante la ONU y otros pa\u00edses y organismos internacionales, aunque jur\u00eddicamente se trata de entes distintos. Los c\u00f3digos ISO se asignan a la Santa Sede como representante de este Estado, pero se refieren al territorio del Estado de la Ciudad del Vaticano."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 243,
+        "fields": {
+            "id": 243,
+            "codigo": 862,
+            "nombre": "Venezuela (Rep\u00fablica Bolivariana de)",
+            "iso": "VEN",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 244,
+        "fields": {
+            "id": 244,
+            "codigo": 704,
+            "nombre": "Viet Nam",
+            "iso": "VNM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 245,
+        "fields": {
+            "id": 245,
+            "codigo": 876,
+            "nombre": "Wallis y Futuna",
+            "iso": "WLF",
+            "observaciones": "Colectividad de ultramar francesa."
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 246,
+        "fields": {
+            "id": 246,
+            "codigo": 887,
+            "nombre": "Yemen",
+            "iso": "YEM",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 247,
+        "fields": {
+            "id": 247,
+            "codigo": 262,
+            "nombre": "Yibuti",
+            "iso": "DJI",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 248,
+        "fields": {
+            "id": 248,
+            "codigo": 894,
+            "nombre": "Zambia",
+            "iso": "ZMB",
+            "observaciones": ""
+        }
+    },
+    {
+        "model": "administracion_territorial.pais",
+        "pk": 249,
+        "fields": {
+            "id": 249,
+            "codigo": 716,
+            "nombre": "Zimbabue",
+            "iso": "ZWE",
+            "observaciones": ""
+        }
+    }
+]
