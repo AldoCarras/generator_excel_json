@@ -1,4 +1,3 @@
-from openpyxl import Workbook
 from openpyxl import load_workbook
 import json
 
@@ -8,21 +7,22 @@ for sheet_title in wb.get_sheet_names():
     sheet = wb.get_sheet_by_name(sheet_title)
     for row in sheet.rows:
         fields = {}
-        pk = 0
+        sw = 0
         if row[0].value is None:
             break
         for cell in row:
-            if cell.column == 1:
-                pk = cell.value
-            if cell.value is None:
-                fields[sheet.cell(row=1, column=cell.column).value] = ""
+            if cell.row == 1:
+                sw = 1
             else:
-                fields[sheet.cell(row=1, column=cell.column).value] = cell.value
-        data.append({
-            "model" : sheet_title,
-            "pk" : pk,
-            "fields" : fields
-        })
+                if cell.value is None:
+                    fields[sheet.cell(row=1, column=cell.column).value] = ""
+                else:
+                    fields[sheet.cell(row=1, column=cell.column).value] = cell.value
+        if sw == 0:
+            data.append({
+                "model": sheet_title,
+                "fields": fields
+            })
 
 with open('data.json', 'w') as file:
     json.dump(data, file, indent=4)

@@ -1,18 +1,6 @@
 [
     {
         "model": "administracion_territorial.pais",
-        "pk": "id",
-        "fields": {
-            "id": "id",
-            "codigo": "codigo",
-            "nombre": "nombre",
-            "iso": "iso",
-            "observaciones": "observaciones"
-        }
-    },
-    {
-        "model": "administracion_territorial.pais",
-        "pk": 1,
         "fields": {
             "id": 1,
             "codigo": 4,
@@ -23,7 +11,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 2,
         "fields": {
             "id": 2,
             "codigo": 248,
@@ -34,7 +21,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 3,
         "fields": {
             "id": 3,
             "codigo": 8,
@@ -45,7 +31,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 4,
         "fields": {
             "id": 4,
             "codigo": 276,
@@ -56,7 +41,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 5,
         "fields": {
             "id": 5,
             "codigo": 20,
@@ -67,7 +51,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 6,
         "fields": {
             "id": 6,
             "codigo": 24,
@@ -78,7 +61,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 7,
         "fields": {
             "id": 7,
             "codigo": 660,
@@ -89,7 +71,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 8,
         "fields": {
             "id": 8,
             "codigo": 10,
@@ -100,7 +81,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 9,
         "fields": {
             "id": 9,
             "codigo": 28,
@@ -111,7 +91,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 10,
         "fields": {
             "id": 10,
             "codigo": 682,
@@ -122,7 +101,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 11,
         "fields": {
             "id": 11,
             "codigo": 12,
@@ -133,7 +111,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 12,
         "fields": {
             "id": 12,
             "codigo": 32,
@@ -144,7 +121,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 13,
         "fields": {
             "id": 13,
             "codigo": 51,
@@ -155,7 +131,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 14,
         "fields": {
             "id": 14,
             "codigo": 533,
@@ -166,7 +141,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 15,
         "fields": {
             "id": 15,
             "codigo": 36,
@@ -177,7 +151,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 16,
         "fields": {
             "id": 16,
             "codigo": 40,
@@ -188,7 +161,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 17,
         "fields": {
             "id": 17,
             "codigo": 31,
@@ -199,7 +171,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 18,
         "fields": {
             "id": 18,
             "codigo": 44,
@@ -210,7 +181,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 19,
         "fields": {
             "id": 19,
             "codigo": 50,
@@ -221,7 +191,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 20,
         "fields": {
             "id": 20,
             "codigo": 52,
@@ -232,7 +201,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 21,
         "fields": {
             "id": 21,
             "codigo": 48,
@@ -243,7 +211,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 22,
         "fields": {
             "id": 22,
             "codigo": 56,
@@ -254,7 +221,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 23,
         "fields": {
             "id": 23,
             "codigo": 84,
@@ -265,7 +231,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 24,
         "fields": {
             "id": 24,
             "codigo": 204,
@@ -276,7 +241,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 25,
         "fields": {
             "id": 25,
             "codigo": 60,
@@ -287,7 +251,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 26,
         "fields": {
             "id": 26,
             "codigo": 112,
@@ -298,7 +261,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 27,
         "fields": {
             "id": 27,
             "codigo": 68,
@@ -309,7 +271,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 28,
         "fields": {
             "id": 28,
             "codigo": 535,
@@ -320,7 +281,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 29,
         "fields": {
             "id": 29,
             "codigo": 70,
@@ -331,7 +291,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 30,
         "fields": {
             "id": 30,
             "codigo": 72,
@@ -342,7 +301,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 31,
         "fields": {
             "id": 31,
             "codigo": 76,
@@ -353,7 +311,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 32,
         "fields": {
             "id": 32,
             "codigo": 96,
@@ -364,7 +321,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 33,
         "fields": {
             "id": 33,
             "codigo": 100,
@@ -375,7 +331,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 34,
         "fields": {
             "id": 34,
             "codigo": 854,
@@ -386,7 +341,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 35,
         "fields": {
             "id": 35,
             "codigo": 108,
@@ -397,7 +351,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 36,
         "fields": {
             "id": 36,
             "codigo": 64,
@@ -408,7 +361,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 37,
         "fields": {
             "id": 37,
             "codigo": 132,
@@ -419,7 +371,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 38,
         "fields": {
             "id": 38,
             "codigo": 116,
@@ -430,7 +381,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 39,
         "fields": {
             "id": 39,
             "codigo": 120,
@@ -441,7 +391,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 40,
         "fields": {
             "id": 40,
             "codigo": 124,
@@ -452,7 +401,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 41,
         "fields": {
             "id": 41,
             "codigo": 634,
@@ -463,7 +411,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 42,
         "fields": {
             "id": 42,
             "codigo": 148,
@@ -474,7 +421,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 43,
         "fields": {
             "id": 43,
             "codigo": 152,
@@ -485,7 +431,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 44,
         "fields": {
             "id": 44,
             "codigo": 156,
@@ -496,7 +441,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 45,
         "fields": {
             "id": 45,
             "codigo": 196,
@@ -507,7 +451,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 46,
         "fields": {
             "id": 46,
             "codigo": 170,
@@ -518,7 +461,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 47,
         "fields": {
             "id": 47,
             "codigo": 174,
@@ -529,7 +471,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 48,
         "fields": {
             "id": 48,
             "codigo": 408,
@@ -540,7 +481,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 49,
         "fields": {
             "id": 49,
             "codigo": 410,
@@ -551,7 +491,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 50,
         "fields": {
             "id": 50,
             "codigo": 384,
@@ -562,7 +501,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 51,
         "fields": {
             "id": 51,
             "codigo": 188,
@@ -573,7 +511,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 52,
         "fields": {
             "id": 52,
             "codigo": 191,
@@ -584,7 +521,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 53,
         "fields": {
             "id": 53,
             "codigo": 192,
@@ -595,7 +531,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 54,
         "fields": {
             "id": 54,
             "codigo": 531,
@@ -606,7 +541,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 55,
         "fields": {
             "id": 55,
             "codigo": 208,
@@ -617,7 +551,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 56,
         "fields": {
             "id": 56,
             "codigo": 212,
@@ -628,7 +561,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 57,
         "fields": {
             "id": 57,
             "codigo": 218,
@@ -639,7 +571,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 58,
         "fields": {
             "id": 58,
             "codigo": 818,
@@ -650,7 +581,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 59,
         "fields": {
             "id": 59,
             "codigo": 222,
@@ -661,7 +591,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 60,
         "fields": {
             "id": 60,
             "codigo": 784,
@@ -672,7 +601,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 61,
         "fields": {
             "id": 61,
             "codigo": 232,
@@ -683,7 +611,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 62,
         "fields": {
             "id": 62,
             "codigo": 703,
@@ -694,7 +621,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 63,
         "fields": {
             "id": 63,
             "codigo": 705,
@@ -705,7 +631,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 64,
         "fields": {
             "id": 64,
             "codigo": 724,
@@ -716,7 +641,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 65,
         "fields": {
             "id": 65,
             "codigo": 840,
@@ -727,7 +651,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 66,
         "fields": {
             "id": 66,
             "codigo": 233,
@@ -738,7 +661,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 67,
         "fields": {
             "id": 67,
             "codigo": 231,
@@ -749,7 +671,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 68,
         "fields": {
             "id": 68,
             "codigo": 608,
@@ -760,7 +681,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 69,
         "fields": {
             "id": 69,
             "codigo": 246,
@@ -771,7 +691,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 70,
         "fields": {
             "id": 70,
             "codigo": 242,
@@ -782,7 +701,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 71,
         "fields": {
             "id": 71,
             "codigo": 250,
@@ -793,7 +711,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 72,
         "fields": {
             "id": 72,
             "codigo": 266,
@@ -804,7 +721,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 73,
         "fields": {
             "id": 73,
             "codigo": 270,
@@ -815,7 +731,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 74,
         "fields": {
             "id": 74,
             "codigo": 268,
@@ -826,7 +741,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 75,
         "fields": {
             "id": 75,
             "codigo": 288,
@@ -837,7 +751,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 76,
         "fields": {
             "id": 76,
             "codigo": 292,
@@ -848,7 +761,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 77,
         "fields": {
             "id": 77,
             "codigo": 308,
@@ -859,7 +771,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 78,
         "fields": {
             "id": 78,
             "codigo": 300,
@@ -870,7 +781,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 79,
         "fields": {
             "id": 79,
             "codigo": 304,
@@ -881,7 +791,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 80,
         "fields": {
             "id": 80,
             "codigo": 312,
@@ -892,7 +801,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 81,
         "fields": {
             "id": 81,
             "codigo": 316,
@@ -903,7 +811,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 82,
         "fields": {
             "id": 82,
             "codigo": 320,
@@ -914,7 +821,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 83,
         "fields": {
             "id": 83,
             "codigo": 254,
@@ -925,7 +831,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 84,
         "fields": {
             "id": 84,
             "codigo": 831,
@@ -936,7 +841,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 85,
         "fields": {
             "id": 85,
             "codigo": 324,
@@ -947,7 +851,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 86,
         "fields": {
             "id": 86,
             "codigo": 624,
@@ -958,7 +861,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 87,
         "fields": {
             "id": 87,
             "codigo": 226,
@@ -969,7 +871,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 88,
         "fields": {
             "id": 88,
             "codigo": 328,
@@ -980,7 +881,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 89,
         "fields": {
             "id": 89,
             "codigo": 332,
@@ -991,7 +891,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 90,
         "fields": {
             "id": 90,
             "codigo": 340,
@@ -1002,7 +901,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 91,
         "fields": {
             "id": 91,
             "codigo": 344,
@@ -1013,7 +911,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 92,
         "fields": {
             "id": 92,
             "codigo": 348,
@@ -1024,7 +921,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 93,
         "fields": {
             "id": 93,
             "codigo": 356,
@@ -1035,7 +931,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 94,
         "fields": {
             "id": 94,
             "codigo": 360,
@@ -1046,7 +941,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 95,
         "fields": {
             "id": 95,
             "codigo": 368,
@@ -1057,7 +951,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 96,
         "fields": {
             "id": 96,
             "codigo": 364,
@@ -1068,7 +961,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 97,
         "fields": {
             "id": 97,
             "codigo": 372,
@@ -1079,7 +971,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 98,
         "fields": {
             "id": 98,
             "codigo": 74,
@@ -1090,7 +981,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 99,
         "fields": {
             "id": 99,
             "codigo": 833,
@@ -1101,7 +991,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 100,
         "fields": {
             "id": 100,
             "codigo": 162,
@@ -1112,7 +1001,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 101,
         "fields": {
             "id": 101,
             "codigo": 352,
@@ -1123,7 +1011,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 102,
         "fields": {
             "id": 102,
             "codigo": 136,
@@ -1134,7 +1021,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 103,
         "fields": {
             "id": 103,
             "codigo": 166,
@@ -1145,7 +1031,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 104,
         "fields": {
             "id": 104,
             "codigo": 184,
@@ -1156,7 +1041,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 105,
         "fields": {
             "id": 105,
             "codigo": 234,
@@ -1167,7 +1051,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 106,
         "fields": {
             "id": 106,
             "codigo": 239,
@@ -1178,7 +1061,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 107,
         "fields": {
             "id": 107,
             "codigo": 334,
@@ -1189,7 +1071,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 108,
         "fields": {
             "id": 108,
             "codigo": 238,
@@ -1200,7 +1081,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 109,
         "fields": {
             "id": 109,
             "codigo": 580,
@@ -1211,7 +1091,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 110,
         "fields": {
             "id": 110,
             "codigo": 584,
@@ -1222,7 +1101,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 111,
         "fields": {
             "id": 111,
             "codigo": 612,
@@ -1233,7 +1111,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 112,
         "fields": {
             "id": 112,
             "codigo": 90,
@@ -1244,7 +1121,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 113,
         "fields": {
             "id": 113,
             "codigo": 796,
@@ -1255,7 +1131,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 114,
         "fields": {
             "id": 114,
             "codigo": 581,
@@ -1266,7 +1141,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 115,
         "fields": {
             "id": 115,
             "codigo": 92,
@@ -1277,7 +1151,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 116,
         "fields": {
             "id": 116,
             "codigo": 850,
@@ -1288,7 +1161,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 117,
         "fields": {
             "id": 117,
             "codigo": 376,
@@ -1299,7 +1171,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 118,
         "fields": {
             "id": 118,
             "codigo": 380,
@@ -1310,7 +1181,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 119,
         "fields": {
             "id": 119,
             "codigo": 388,
@@ -1321,7 +1191,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 120,
         "fields": {
             "id": 120,
             "codigo": 392,
@@ -1332,7 +1201,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 121,
         "fields": {
             "id": 121,
             "codigo": 832,
@@ -1343,7 +1211,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 122,
         "fields": {
             "id": 122,
             "codigo": 400,
@@ -1354,7 +1221,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 123,
         "fields": {
             "id": 123,
             "codigo": 398,
@@ -1365,7 +1231,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 124,
         "fields": {
             "id": 124,
             "codigo": 404,
@@ -1376,7 +1241,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 125,
         "fields": {
             "id": 125,
             "codigo": 417,
@@ -1387,7 +1251,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 126,
         "fields": {
             "id": 126,
             "codigo": 296,
@@ -1398,7 +1261,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 127,
         "fields": {
             "id": 127,
             "codigo": 414,
@@ -1409,7 +1271,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 128,
         "fields": {
             "id": 128,
             "codigo": 418,
@@ -1420,7 +1281,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 129,
         "fields": {
             "id": 129,
             "codigo": 426,
@@ -1431,7 +1291,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 130,
         "fields": {
             "id": 130,
             "codigo": 428,
@@ -1442,7 +1301,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 131,
         "fields": {
             "id": 131,
             "codigo": 422,
@@ -1453,7 +1311,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 132,
         "fields": {
             "id": 132,
             "codigo": 430,
@@ -1464,7 +1321,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 133,
         "fields": {
             "id": 133,
             "codigo": 434,
@@ -1475,7 +1331,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 134,
         "fields": {
             "id": 134,
             "codigo": 438,
@@ -1486,7 +1341,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 135,
         "fields": {
             "id": 135,
             "codigo": 440,
@@ -1497,7 +1351,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 136,
         "fields": {
             "id": 136,
             "codigo": 442,
@@ -1508,7 +1361,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 137,
         "fields": {
             "id": 137,
             "codigo": 446,
@@ -1519,7 +1371,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 138,
         "fields": {
             "id": 138,
             "codigo": 807,
@@ -1530,7 +1381,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 139,
         "fields": {
             "id": 139,
             "codigo": 450,
@@ -1541,7 +1391,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 140,
         "fields": {
             "id": 140,
             "codigo": 458,
@@ -1552,7 +1401,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 141,
         "fields": {
             "id": 141,
             "codigo": 454,
@@ -1563,7 +1411,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 142,
         "fields": {
             "id": 142,
             "codigo": 462,
@@ -1574,7 +1421,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 143,
         "fields": {
             "id": 143,
             "codigo": 466,
@@ -1585,7 +1431,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 144,
         "fields": {
             "id": 144,
             "codigo": 470,
@@ -1596,7 +1441,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 145,
         "fields": {
             "id": 145,
             "codigo": 504,
@@ -1607,7 +1451,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 146,
         "fields": {
             "id": 146,
             "codigo": 474,
@@ -1618,7 +1461,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 147,
         "fields": {
             "id": 147,
             "codigo": 480,
@@ -1629,7 +1471,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 148,
         "fields": {
             "id": 148,
             "codigo": 478,
@@ -1640,7 +1481,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 149,
         "fields": {
             "id": 149,
             "codigo": 175,
@@ -1651,7 +1491,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 150,
         "fields": {
             "id": 150,
             "codigo": 484,
@@ -1662,7 +1501,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 151,
         "fields": {
             "id": 151,
             "codigo": 583,
@@ -1673,7 +1511,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 152,
         "fields": {
             "id": 152,
             "codigo": 498,
@@ -1684,7 +1521,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 153,
         "fields": {
             "id": 153,
             "codigo": 492,
@@ -1695,7 +1531,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 154,
         "fields": {
             "id": 154,
             "codigo": 496,
@@ -1706,7 +1541,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 155,
         "fields": {
             "id": 155,
             "codigo": 499,
@@ -1717,7 +1551,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 156,
         "fields": {
             "id": 156,
             "codigo": 500,
@@ -1728,7 +1561,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 157,
         "fields": {
             "id": 157,
             "codigo": 508,
@@ -1739,7 +1571,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 158,
         "fields": {
             "id": 158,
             "codigo": 104,
@@ -1750,7 +1581,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 159,
         "fields": {
             "id": 159,
             "codigo": 516,
@@ -1761,7 +1591,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 160,
         "fields": {
             "id": 160,
             "codigo": 520,
@@ -1772,7 +1601,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 161,
         "fields": {
             "id": 161,
             "codigo": 524,
@@ -1783,7 +1611,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 162,
         "fields": {
             "id": 162,
             "codigo": 558,
@@ -1794,7 +1621,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 163,
         "fields": {
             "id": 163,
             "codigo": 562,
@@ -1805,7 +1631,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 164,
         "fields": {
             "id": 164,
             "codigo": 566,
@@ -1816,7 +1641,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 165,
         "fields": {
             "id": 165,
             "codigo": 570,
@@ -1827,7 +1651,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 166,
         "fields": {
             "id": 166,
             "codigo": 574,
@@ -1838,7 +1661,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 167,
         "fields": {
             "id": 167,
             "codigo": 578,
@@ -1849,7 +1671,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 168,
         "fields": {
             "id": 168,
             "codigo": 540,
@@ -1860,7 +1681,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 169,
         "fields": {
             "id": 169,
             "codigo": 554,
@@ -1871,7 +1691,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 170,
         "fields": {
             "id": 170,
             "codigo": 512,
@@ -1882,7 +1701,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 171,
         "fields": {
             "id": 171,
             "codigo": 528,
@@ -1893,7 +1711,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 172,
         "fields": {
             "id": 172,
             "codigo": 586,
@@ -1904,7 +1721,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 173,
         "fields": {
             "id": 173,
             "codigo": 585,
@@ -1915,7 +1731,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 174,
         "fields": {
             "id": 174,
             "codigo": 275,
@@ -1926,7 +1741,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 175,
         "fields": {
             "id": 175,
             "codigo": 591,
@@ -1937,7 +1751,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 176,
         "fields": {
             "id": 176,
             "codigo": 598,
@@ -1948,7 +1761,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 177,
         "fields": {
             "id": 177,
             "codigo": 600,
@@ -1959,7 +1771,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 178,
         "fields": {
             "id": 178,
             "codigo": 604,
@@ -1970,7 +1781,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 179,
         "fields": {
             "id": 179,
             "codigo": 258,
@@ -1981,7 +1791,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 180,
         "fields": {
             "id": 180,
             "codigo": 616,
@@ -1992,7 +1801,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 181,
         "fields": {
             "id": 181,
             "codigo": 620,
@@ -2003,7 +1811,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 182,
         "fields": {
             "id": 182,
             "codigo": 630,
@@ -2014,7 +1821,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 183,
         "fields": {
             "id": 183,
             "codigo": 826,
@@ -2025,7 +1831,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 184,
         "fields": {
             "id": 184,
             "codigo": 732,
@@ -2036,7 +1841,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 185,
         "fields": {
             "id": 185,
             "codigo": 140,
@@ -2047,7 +1851,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 186,
         "fields": {
             "id": 186,
             "codigo": 203,
@@ -2058,7 +1861,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 187,
         "fields": {
             "id": 187,
             "codigo": 178,
@@ -2069,7 +1871,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 188,
         "fields": {
             "id": 188,
             "codigo": 180,
@@ -2080,7 +1881,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 189,
         "fields": {
             "id": 189,
             "codigo": 214,
@@ -2091,7 +1891,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 190,
         "fields": {
             "id": 190,
             "codigo": 638,
@@ -2102,7 +1901,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 191,
         "fields": {
             "id": 191,
             "codigo": 646,
@@ -2113,7 +1911,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 192,
         "fields": {
             "id": 192,
             "codigo": 642,
@@ -2124,7 +1921,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 193,
         "fields": {
             "id": 193,
             "codigo": 643,
@@ -2135,7 +1931,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 194,
         "fields": {
             "id": 194,
             "codigo": 882,
@@ -2146,7 +1941,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 195,
         "fields": {
             "id": 195,
             "codigo": 16,
@@ -2157,7 +1951,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 196,
         "fields": {
             "id": 196,
             "codigo": 652,
@@ -2168,7 +1961,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 197,
         "fields": {
             "id": 197,
             "codigo": 659,
@@ -2179,7 +1971,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 198,
         "fields": {
             "id": 198,
             "codigo": 674,
@@ -2190,7 +1981,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 199,
         "fields": {
             "id": 199,
             "codigo": 663,
@@ -2201,7 +1991,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 200,
         "fields": {
             "id": 200,
             "codigo": 666,
@@ -2212,7 +2001,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 201,
         "fields": {
             "id": 201,
             "codigo": 670,
@@ -2223,7 +2011,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 202,
         "fields": {
             "id": 202,
             "codigo": 654,
@@ -2234,7 +2021,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 203,
         "fields": {
             "id": 203,
             "codigo": 662,
@@ -2245,7 +2031,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 204,
         "fields": {
             "id": 204,
             "codigo": 678,
@@ -2256,7 +2041,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 205,
         "fields": {
             "id": 205,
             "codigo": 686,
@@ -2267,7 +2051,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 206,
         "fields": {
             "id": 206,
             "codigo": 688,
@@ -2278,7 +2061,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 207,
         "fields": {
             "id": 207,
             "codigo": 690,
@@ -2289,7 +2071,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 208,
         "fields": {
             "id": 208,
             "codigo": 694,
@@ -2300,7 +2081,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 209,
         "fields": {
             "id": 209,
             "codigo": 702,
@@ -2311,7 +2091,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 210,
         "fields": {
             "id": 210,
             "codigo": 534,
@@ -2322,7 +2101,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 211,
         "fields": {
             "id": 211,
             "codigo": 760,
@@ -2333,7 +2111,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 212,
         "fields": {
             "id": 212,
             "codigo": 706,
@@ -2344,7 +2121,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 213,
         "fields": {
             "id": 213,
             "codigo": 144,
@@ -2355,7 +2131,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 214,
         "fields": {
             "id": 214,
             "codigo": 748,
@@ -2366,7 +2141,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 215,
         "fields": {
             "id": 215,
             "codigo": 710,
@@ -2377,7 +2151,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 216,
         "fields": {
             "id": 216,
             "codigo": 729,
@@ -2388,7 +2161,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 217,
         "fields": {
             "id": 217,
             "codigo": 728,
@@ -2399,7 +2171,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 218,
         "fields": {
             "id": 218,
             "codigo": 752,
@@ -2410,7 +2181,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 219,
         "fields": {
             "id": 219,
             "codigo": 756,
@@ -2421,7 +2191,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 220,
         "fields": {
             "id": 220,
             "codigo": 740,
@@ -2432,7 +2201,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 221,
         "fields": {
             "id": 221,
             "codigo": 744,
@@ -2443,7 +2211,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 222,
         "fields": {
             "id": 222,
             "codigo": 764,
@@ -2454,7 +2221,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 223,
         "fields": {
             "id": 223,
             "codigo": 158,
@@ -2465,7 +2231,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 224,
         "fields": {
             "id": 224,
             "codigo": 834,
@@ -2476,7 +2241,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 225,
         "fields": {
             "id": 225,
             "codigo": 762,
@@ -2487,7 +2251,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 226,
         "fields": {
             "id": 226,
             "codigo": 86,
@@ -2498,7 +2261,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 227,
         "fields": {
             "id": 227,
             "codigo": 260,
@@ -2509,7 +2271,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 228,
         "fields": {
             "id": 228,
             "codigo": 626,
@@ -2520,7 +2281,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 229,
         "fields": {
             "id": 229,
             "codigo": 768,
@@ -2531,7 +2291,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 230,
         "fields": {
             "id": 230,
             "codigo": 772,
@@ -2542,7 +2301,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 231,
         "fields": {
             "id": 231,
             "codigo": 776,
@@ -2553,7 +2311,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 232,
         "fields": {
             "id": 232,
             "codigo": 780,
@@ -2564,7 +2321,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 233,
         "fields": {
             "id": 233,
             "codigo": 788,
@@ -2575,7 +2331,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 234,
         "fields": {
             "id": 234,
             "codigo": 795,
@@ -2586,7 +2341,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 235,
         "fields": {
             "id": 235,
             "codigo": 792,
@@ -2597,7 +2351,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 236,
         "fields": {
             "id": 236,
             "codigo": 798,
@@ -2608,7 +2361,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 237,
         "fields": {
             "id": 237,
             "codigo": 804,
@@ -2619,7 +2371,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 238,
         "fields": {
             "id": 238,
             "codigo": 800,
@@ -2630,7 +2381,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 239,
         "fields": {
             "id": 239,
             "codigo": 858,
@@ -2641,7 +2391,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 240,
         "fields": {
             "id": 240,
             "codigo": 860,
@@ -2652,7 +2401,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 241,
         "fields": {
             "id": 241,
             "codigo": 548,
@@ -2663,7 +2411,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 242,
         "fields": {
             "id": 242,
             "codigo": 336,
@@ -2674,7 +2421,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 243,
         "fields": {
             "id": 243,
             "codigo": 862,
@@ -2685,7 +2431,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 244,
         "fields": {
             "id": 244,
             "codigo": 704,
@@ -2696,7 +2441,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 245,
         "fields": {
             "id": 245,
             "codigo": 876,
@@ -2707,7 +2451,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 246,
         "fields": {
             "id": 246,
             "codigo": 887,
@@ -2718,7 +2461,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 247,
         "fields": {
             "id": 247,
             "codigo": 262,
@@ -2729,7 +2471,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 248,
         "fields": {
             "id": 248,
             "codigo": 894,
@@ -2740,7 +2481,6 @@
     },
     {
         "model": "administracion_territorial.pais",
-        "pk": 249,
         "fields": {
             "id": 249,
             "codigo": 716,
